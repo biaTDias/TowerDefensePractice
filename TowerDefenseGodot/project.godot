@@ -10,9 +10,13 @@ config_version=4
 
 [application]
 
-config/name="Tower Defense Godot"
+config/name="Tower Defense Godot - YT tutorial"
 run/main_scene="res://Scene Handler.tscn"
 config/icon="res://icon.png"
+
+[autoload]
+
+GameData="*res://Singletons/GameData.gd"
 
 [display]
 
