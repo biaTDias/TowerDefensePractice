@@ -9,5 +9,7 @@ A small project for me to learn better how to work with the [Godot game engine](
 **13/09/2021** Finished Part 8 of the [Tower Defense Godot tutorial by Game Development Center](https://www.youtube.com/watch?v=wFdpCGbrVXI&list=PLZ-54sd-DMAJltIzTtZ6ZhC-9hkqYXyp6&index=2&t=8s&ab_channel=GameDevelopmentCenter)
 
 **14/09/2021** Finished Parts 9 and 10 of the [Tower Defense Godot tutorial by Game Development Center](https://www.youtube.com/watch?v=wFdpCGbrVXI&list=PLZ-54sd-DMAJltIzTtZ6ZhC-9hkqYXyp6&index=2&t=8s&ab_channel=GameDevelopmentCenter)
+
+**04/10/2021** Finished Part 11 of the [Tower Defense Godot tutorial by Game Development Center](https://www.youtube.com/watch?v=wFdpCGbrVXI&list=PLZ-54sd-DMAJltIzTtZ6ZhC-9hkqYXyp6&index=2&t=8s&ab_channel=GameDevelopmentCenter)
   
 
